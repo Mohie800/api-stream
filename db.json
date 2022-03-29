@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "test1",
+      "description": "check1",
+      "id": 1
+    },
+    {
+      "title": "new",
+      "description": "new streRM",
+      "id": 2
+    },
+    {
+      "title": "boby",
+      "description": "bobo",
+      "id": 5
+    },
+    {
+      "title": "dfdfdsf",
+      "description": "dfsfsdfs",
+      "userId": "115267275161950686143",
+      "id": 6
+    }
+  ]
+}
